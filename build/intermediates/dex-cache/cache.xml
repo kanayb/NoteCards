@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/pre-dexed/debug/classes-450f7ec01ab15d19fe4deb0d3419197ac7edd226.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.11.0/6592129dec2caa8791d322c7e4b6b7a30e8eadae/parse-android-1.11.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/pre-dexed/release/parse-android-1.11.0-a0b41cc483fb6058033ad0d6de9dc003c321f210.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-9a5e4214a10bcc940f97f40f653d246d09e1bced.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.3.0/bc535105332645408ef5f1380215cc954b842178/bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/pre-dexed/release/bolts-applinks-1.3.0-04299a9e50b4cfb4bf749947a0709f15e26db567.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/pre-dexed/release/classes-6ff7cb9b9cb2d94e289b23ef69dd2867d16fdbe6.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-6bb07aca8f740324a414ddb45e5d1deaddfe84fc.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/pre-dexed/release/bolts-tasks-1.3.0-8cb4d689f189346af84f25bd1159d39ad4d315b4.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/pre-dexed/release/classes-5b986e88330cf28c6445b1c4515b2540de18fc28.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/pre-dexed/debug/classes-ac03bea39fc735e60eb93d795268f5b67c7a30c3.jar" />
+    </item>
+    <item
+        jar="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/ayberk/Documents/AndroidStudioProjects/NoteCard/app/build/intermediates/pre-dexed/debug/classes-58dc9ad45dff11c7856f055e331466da8aef40f5.jar" />
+    </item>
+
+</items>
